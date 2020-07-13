@@ -1,0 +1,27 @@
+Josie,graduated,2019
+Liam,died,2019
+Noah,baby,2020
+John,pregnant,2001
+Sophia,pregnant,2012
+Isabella,graduated,119
+Aliexi,fell,2017
+Jake,A million,2018
+Devyn,Got an A,2020
+Charles,Dropped out,2020
+Charles,Came back,2021
+Page,Gave Devyn an A,2020
+Charlina,ice,2001
+Hello,enobi,2012
+General,Kenobi,2012
+Something,test,2012
+shrek,makes,2012
+add,new line,2012
+problem,fix,2012
+yes,fixed,2012
+e,e,2
+Devyn,uno,0
+another ,year test,50
+no,wrong year,50
+ts,stroi,2101
+Larry,negative man,5
+2,3,3
